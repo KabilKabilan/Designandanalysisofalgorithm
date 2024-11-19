@@ -38,7 +38,7 @@ Ensure Python is installed on your system.
 ### 🛠️ Steps  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-username/graph-algorithms.git  
+   git clone https://github.com/KabilKabilan/Designandanalysisofalgorithm/
    ```  
 2. Navigate to the project directory:  
    ```bash  
