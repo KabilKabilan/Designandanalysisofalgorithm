@@ -1,6 +1,3 @@
-Here's an updated **README.md** file tailored for your project:
-
----
 
 # 🌟 Graph Algorithms Project 🌐  
 
@@ -73,6 +70,6 @@ Contributions are welcome! 🎉
 ---
 
 ## 📬 Contact  
-📧 **Email**: your-kabilanbu567@gmail.com  
+📧 **Email**: kabilanbu567@gmail.com  
 🌐 **Connect**: [LinkedIn](https://www.linkedin.com/feed/) | [GitHub](https://github.com/KabilKabilan/)  
 
